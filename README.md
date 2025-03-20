@@ -1,2 +1,2 @@
 # Terraform-aws-infa
-Automatyczne wdrażanie infrastruktury w chmurze (IaC)
+Automated deployment of infrastructure in the cloud (IaC)
